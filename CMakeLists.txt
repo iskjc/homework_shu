@@ -31,3 +31,4 @@ add_executable(251126
 add_executable(Shape_with_other_functions
         Shape_with_other_functions/Shape_inheritence.cpp
 )
+add_executable(linked_list_template linked_list_template/custom_linked_list_template.cpp)
