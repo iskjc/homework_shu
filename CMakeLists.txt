@@ -32,3 +32,9 @@ add_executable(Shape_with_other_functions
         Shape_with_other_functions/Shape_inheritence.cpp
 )
 add_executable(linked_list_template linked_list_template/custom_linked_list_template.cpp)
+add_executable(Vector_String_template
+        Vector_String_template/VECTOR.h
+        Vector_String_template/Vectorr.h
+        Vector_String_template/String.h
+        Vector_String_template/test.cpp
+        Vector_String_template/main.cpp)
