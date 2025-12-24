@@ -5,7 +5,9 @@
 
 int main() {
     testString();
-    cout << "\n\n\n\n\n\n\n";
+    cout << "\n\n\n\n\n\n";
     testVector();
+    cout << "\n\n\n\n\n\n";
+    testExceptionScenarios();
     return 0;
 }
