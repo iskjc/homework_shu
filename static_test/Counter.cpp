@@ -1,6 +1,4 @@
-//
-// Created by srj15 on 2025/11/7.
-//
+
 #include <iostream>
 using namespace std;
 class Counter {

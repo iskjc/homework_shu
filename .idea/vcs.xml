@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/251126" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MazeSolver/MazeSolver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tetris/Cpp-Tetris-Game-with-raylib" vcs="Git" />
   </component>
 </project>
